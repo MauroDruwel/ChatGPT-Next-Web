@@ -2,7 +2,7 @@
   "name": "nextchat",
   "private": false,
   "license": "mit",
-  "homepage": "https://chat.maurodruwel.tech/", 
+  "homepage": "https://maurodruwel.tech/", 
   "scripts": {
     "dev": "next dev",
     "build": "cross-env BUILD_MODE=standalone next build",
