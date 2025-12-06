@@ -2,7 +2,7 @@
   "name": "nextchat",
   "private": false,
   "license": "mit",
-  "homepage": "https://maurodruwel.tech/", 
+  "homepage": "https://maurodruwel.be/ChatGPT-Next-Web/", 
   "scripts": {
     "mask": "npx tsx app/masks/build.ts",
     "mask:watch": "npx watch \"yarn mask\" app/masks",
